@@ -1,0 +1,8 @@
+10001,Scrooge,McDuck,scrooge.mcduck@cit.ie,83248.00
+10002,Mickey,Mouse,mickey.mouse@cit.ie,37321.32
+10003,Minnie,Mouse,minnie.mouse@cit.ie,700.00
+10004,Donald,Duck,donald.duck@cit.ie,15326.00
+10005,Buggs,Bunny,buggs.bunny@cit.ie,25111.43
+10006,Rodger,Rabbit,rodger.rabbit@cit.ie,50786.00
+10007,Daisy,Duck,daisy.duck@cit.ie,49987.00
+10008,Mad,Hatter,mad.hatter@cit.ie,50786.00
